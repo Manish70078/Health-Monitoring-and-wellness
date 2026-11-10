@@ -1,4 +1,4 @@
-# Health Monitoring & Tracker
+# Health Monitoring & Wellness
 
 A simple, responsive health information website for everyday checkups, common viral illnesses, and finding care.
 
