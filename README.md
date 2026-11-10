@@ -65,7 +65,7 @@ The form collects a name, visit type, preferred date, and area in the browser an
 ```text
 .
 ├── README.md
-└── outputs/
+└── Health-Monitoring-and-Wellness_project/
     ├── index.html
     └── styles.css
 ```
