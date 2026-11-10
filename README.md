@@ -4,8 +4,6 @@ A simple health website for tracking basic health checks, learning about common 
 
 
 
-# Health Monitoring & Tracker
-
 A simple, responsive health information website for everyday checkups, common viral illnesses, and finding care.
 
 ## Features
