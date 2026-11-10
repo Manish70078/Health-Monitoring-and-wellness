@@ -2,10 +2,6 @@
 A simple health website for tracking basic health checks, learning about common illnesses, and finding care.
 
 
-
-
-A simple, responsive health information website for everyday checkups, common viral illnesses, and finding care.
-
 ## Features
 
 - General information about flu, COVID-19, dengue, common colds, viral stomach bugs, and RSV
